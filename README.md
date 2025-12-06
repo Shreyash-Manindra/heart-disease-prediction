@@ -50,13 +50,7 @@ Missing or noisy data
 These limitations can cause ML models to overfit or underperform in real clinical settings.
 Synthetic augmentation aims to expand the clinical representativeness of the data while maintaining medically plausible patterns.
 
-📂 Repository Structure
-/
-├── Heart Disease ML.ipynb       # Main notebook containing training workflow
-├── data/                        # (Optional) Placeholder for dataset
-├── models/                      # Saved model artifacts (if included)
-├── results/                     # Plots, metrics, and evaluation outputs
-└── README.md                    # Project documentation
+
 
 
 Note: Certain modules or functions may be intentionally omitted due to patent restrictions.
