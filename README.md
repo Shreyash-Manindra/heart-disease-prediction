@@ -93,10 +93,22 @@ Neural Networks (optional)
 Produces:
 
 ROC curves
+<img width="918" height="660" alt="image" src="https://github.com/user-attachments/assets/0885c068-de2e-4228-b43f-dd7bad23a3a8" />
 
-Confusion matrices
+Accuracy and AUC Comparison
+<img width="1763" height="663" alt="image" src="https://github.com/user-attachments/assets/c6c558fc-5290-4e32-bddb-cdf049964cf8" />
 
-Performance tables
+Performance Gains with GAN
+<img width="1278" height="527" alt="image" src="https://github.com/user-attachments/assets/20aa313f-20b6-4f0e-99af-ba0647b5b130" />
+
+Accuracy Analysis
+<img width="1269" height="394" alt="image" src="https://github.com/user-attachments/assets/ea4e1d82-d5e1-42b5-bd85-e0719b8f37ba" />
+
+Model Metrics Comparison
+<img width="1412" height="719" alt="image" src="https://github.com/user-attachments/assets/acfec7c9-a745-4b1f-99d6-a52a9e04ae2f" />
+
+<img width="1296" height="491" alt="image" src="https://github.com/user-attachments/assets/264d5d3f-9324-49dc-9f89-cd27fb992c35" />
+
 
 Comparative analysis (real-only vs augmented training)
 
@@ -143,7 +155,6 @@ For licensing or collaboration inquiries, please reach out directly.
 Due to IP constraints, external contributions are not accepted at this time.
 However, you may open issues for discussions related to non-proprietary aspects of the project.
 
-<img width="918" height="660" alt="image" src="https://github.com/user-attachments/assets/813ace04-fea3-4db1-bd67-46a90ec83eb2" />
 
 
 📄 License
