@@ -143,6 +143,9 @@ For licensing or collaboration inquiries, please reach out directly.
 Due to IP constraints, external contributions are not accepted at this time.
 However, you may open issues for discussions related to non-proprietary aspects of the project.
 
+<img width="918" height="660" alt="image" src="https://github.com/user-attachments/assets/813ace04-fea3-4db1-bd67-46a90ec83eb2" />
+
+
 📄 License
 
 Restricted — Patent Pending
